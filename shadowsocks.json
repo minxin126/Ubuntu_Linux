@@ -1,0 +1,11 @@
+{
+"server":"hk1-sta81.x9b83.website",
+"server_port":63566,
+"local_address":"127.0.0.1",
+"local_port":1080,
+"password":"SdYPXNAjLaJSfJ6",
+"timeout":300,
+"method":"chacha20-ietf-poly1305",
+"fast_open":false,
+"workers":1
+}
